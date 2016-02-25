@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/layout/view_player.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/layout/view_player.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/layout/activity_main_demo.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/layout/activity_main_demo.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/layout/activity_player.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/layout/activity_player.xml"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_normal_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_play_normal_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_forward_normal_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_forward_normal_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_forward_pressed_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_forward_pressed_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_locked.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_locked.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/seekbar_thumb_normal.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/seekbar_thumb_normal.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/seekbar_thumb_pressed.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/seekbar_thumb_pressed.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_play_pressed_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_play_pressed_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lock.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pause_normal_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_pause_normal_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_backward_normal_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_backward_normal_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_crop_circle_normal.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_crop_circle_normal.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_backward_pressed_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_backward_pressed_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pause_pressed_w.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_pause_pressed_w.png"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_crop_circle_pressed.png",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable-hdpi/ic_crop_circle_pressed.png"
+    }
+]

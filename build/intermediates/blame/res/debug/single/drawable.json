@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/ic_play.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/seekbar_thumb.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/ic_crop_circle.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/ic_crop_circle.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/ic_forward_w.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/ic_forward_w.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/po_seekbar.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/po_seekbar.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/ic_pause.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/build/intermediates/res/merged/debug/drawable/ic_backward_w.xml",
+        "source": "/Users/samnang/Downloads/PlayerLibrary/PlayerLibrary/src/main/res/drawable/ic_backward_w.xml"
+    }
+]
